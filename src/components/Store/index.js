@@ -32,7 +32,7 @@ export default class Store extends Component{
                         <t style={{marginLeft:"2.5em"}}></t> {detail}
                     </h5>
                     <h6>
-                        ที่อยู่ {""}
+                        ที่อยู่ร้าน {""}
                         <span className="address-show" onClick={this.handleInfo}>
                             <i class="fas fa-caret-square-down"></i>                        
                         </span> 
